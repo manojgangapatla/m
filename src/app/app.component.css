@@ -1,0 +1,17 @@
+h1{
+    color: crimson;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    text-shadow: 2px 0 3px black;
+}
+a{
+    position: absolute;
+    top: 10%;
+    left: 75%;
+    color: white;
+    background: linear-gradient( #fb5283,#ff3527);
+    padding: 10px;
+    margin: 20px;
+    border-radius: 30px;
+}
